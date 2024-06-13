@@ -1,0 +1,5 @@
+print("Ordeniza Jefferson")
+print('0-----')
+print('  ||||')
+print('*' * 10)
+print('''  ''')
